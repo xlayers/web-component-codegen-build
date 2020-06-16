@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of web-component-codegen
+ */
+export { WebComponentDocGenService } from './lib/web-component-docgen.service';
+export { WebComponentCodeGenService } from './lib/web-component-codegen.service';
+export { WebComponentCodeGenModule } from './lib/web-component-codegen.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0B4bGF5ZXJzL3dlYi1jb21wb25lbnQtY29kZWdlbi8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUlBLDBDQUFjLG9DQUFvQyxDQUFDO0FBQ25ELDJDQUFjLHFDQUFxQyxDQUFDO0FBQ3BELDBDQUFjLG9DQUFvQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHdlYi1jb21wb25lbnQtY29kZWdlblxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3dlYi1jb21wb25lbnQtZG9jZ2VuLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi93ZWItY29tcG9uZW50LWNvZGVnZW4uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3dlYi1jb21wb25lbnQtY29kZWdlbi5tb2R1bGUnO1xyXG4iXX0=

@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { WebComponentDocGenService, WebComponentCodeGenService, WebComponentCodeGenModule } from './public_api';
+export { WebComponentAggregatorService as ɵa } from './lib/web-component-aggregator.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoieGxheWVycy13ZWItY29tcG9uZW50LWNvZGVnZW4uanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AeGxheWVycy93ZWItY29tcG9uZW50LWNvZGVnZW4vIiwic291cmNlcyI6WyJ4bGF5ZXJzLXdlYi1jb21wb25lbnQtY29kZWdlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsaUdBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyw2QkFBNkIsSUFBSSxFQUFFLEVBQUMsTUFBTSx3Q0FBd0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWNfYXBpJztcblxuZXhwb3J0IHtXZWJDb21wb25lbnRBZ2dyZWdhdG9yU2VydmljZSBhcyDJtWF9IGZyb20gJy4vbGliL3dlYi1jb21wb25lbnQtYWdncmVnYXRvci5zZXJ2aWNlJzsiXX0=
